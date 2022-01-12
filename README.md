@@ -1,6 +1,3 @@
-# DATA TOOLS
-
-> ![20211212_125730](https://user-images.githubusercontent.com/88564225/145702167-4440f6c2-5253-4bc8-946a-c2e0df8e5868.jpg)
 # install
           [01] pkg update && pkg upgrade
           [02] pkg install git
@@ -13,7 +10,7 @@
           [09] pip2 install mechanize
           [10] pip install requests
           [11] pip2 install requests
-          [12] git clone https://github.com/mrjeeck/SIMBF
+          [12] git clone https://github.com/arimaulanafirmansyah/SIMBF
           [13] pip2 Install ipaddress
           [14] pip install ipaddresss
           [15] pip2 install bs4
