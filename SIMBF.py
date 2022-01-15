@@ -167,6 +167,7 @@ def ___jeeck___xnano___xxz___():
     print '\x1b[1;94m  ║\x1b[1;97m TOOLS NICK     :\x1b[1;93m SIMBF'
     print '\x1b[1;94m  ║\x1b[1;97m PROJECTED BY   :\x1b[1;93m AMFCODE'
     print '\x1b[1;94m  ║\x1b[1;97m          GUNAKAN DENGAN BIJAK HAPPY HACKING'
+    print '\x1b[1;94m  ║\x1b[1;97m          ATTENTION, For People Other Than Indonesian Translate to Understand!'
     print '\x1b[1;94m✠═║════════════════════════════════════════════════════✠\n';time.sleep(0.03)
     print '\n\x1b[1;94m✠═║════════════════════════════════════════════════════✠';time.sleep(0.03)
     print ( " \033[0;36m[\033[0;35m01\033[0;36m]\033[0;00m Dump id public facebook");time.sleep(0.03)
